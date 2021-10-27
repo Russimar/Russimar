@@ -7,6 +7,10 @@ Sou um desenvolvedor de software Coboleiro por natureza, Radizeiro por convicç�
 - Tempos difíceis formam homens fortes.
 
 
+**Databases** <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://firebirdsql.org/file/about/firebird-logo-48.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Russimar&show_icons=true&theme=highcontrast)
 
 ### Connect with me ###
