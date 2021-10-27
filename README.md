@@ -1,6 +1,6 @@
 ## Olá, Meu nome é Russimar.
 
-Sou um desenvolvedor de software Coboleiro por natureza, radizeiro por convicção
+Sou um desenvolvedor de software Coboleiro por natureza, Radizeiro por convicção
 
 - Moro no Gravataí - Rio Grande do Sul, Brasil.
 - Antes feito do que perfeito.
