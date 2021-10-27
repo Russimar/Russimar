@@ -7,7 +7,7 @@ Sou um desenvolvedor de software Coboleiro por natureza, radizeiro por convicç�
 - Tempos difíceis formam homens fortes.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaronSatoshi&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Russimar&show_icons=true&theme=highcontrast)
 
 ### Connect with me ###
 
