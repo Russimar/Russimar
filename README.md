@@ -1,4 +1,33 @@
-### Hi there 👋
+## Olá, Meu nome é Russimar.
+
+Sou um desenvolvedor de software Coboleiro por natureza, radizeiro por convicção
+
+- Moro no Gravataí - Rio Grande do Sul, Brasil.
+- Antes feito do que perfeito.
+- Tempos difíceis formam homens fortes.
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaronSatoshi&show_icons=true&theme=highcontrast)
+
+### Connect with me ###
+
+
+<a href="https://www.linkedin.com/in/russimar-alves-da-silva-b21111121/" target="_blank" rel="external">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="russimar-linkedin" width="40" height="40" style="max-width:100%;"></img>
+</a>
+
+<a href="https://www.facebook.com/russimar.alvesdasilva" target="_blank" rel="external">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="face" width="40" height="40" style="max-width:100%;"></img>
+</a>
+
+<a href="https://www.instagram.com/russimar/" target="_blank" rel="external">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="insta" width="40" height="40" style="max-width:100%;"></img>
+</a>
+
+<a href="mailto:russimar.s@gmail.com" target="_blank" rel="external">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="email" width="40" height="40" style="max-width:100%;"></img>
+</a>
+
 
 <!--
 **Russimar/Russimar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
