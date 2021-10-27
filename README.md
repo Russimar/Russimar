@@ -6,7 +6,7 @@ Sou um desenvolvedor de software Coboleiro por natureza, Radizeiro por convicç�
 - Antes feito do que perfeito.
 - Tempos difíceis formam homens fortes.
 
-<img src="https://www.embarcadero.com/images/logos/embt_primary_logo_black_new_idera.png" alt="html" width="130" height="40" style="max-width:100%;"></img>
+<img src="https://www.embarcadero.com/images/logos/embt_primary_logo_black_new_idera.png" alt="html" width="140" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://firebirdsql.org/file/about/firebird-logo-48.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
 
