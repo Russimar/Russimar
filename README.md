@@ -1,4 +1,5 @@
 ## Olá, Meu nome é Russimar.
+![](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/russimar-alves-da-silva-b21111121/)
 
 Sou um desenvolvedor de software Coboleiro por natureza, Radizeiro por convicção
 
