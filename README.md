@@ -9,6 +9,7 @@ Sou um Coboleiro por natureza, Radizeiro por convicção!
 <img src="https://www.embarcadero.com/images/logos/embt_primary_logo_black_new_idera.png" alt="html" width="140" height="40" style="max-width:100%;"></img>
 <img src="https://firebirdsql.org/file/about/firebird-logo-48.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://www.mundodocker.com.br/wp-content/uploads/2015/06/docker_facebook_share.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Russimar&show_icons=true&theme=highcontrast)
 
@@ -21,10 +22,6 @@ Sou um Coboleiro por natureza, Radizeiro por convicção!
 
 <a href="https://www.facebook.com/russimar.alvesdasilva" target="_blank" rel="external">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="face" width="40" height="40" style="max-width:100%;"></img>
-</a>
-
-<a href="https://www.docker.com/" target="_blank" rel="external">
-  <img align="center" src="https://www.mundodocker.com.br/wp-content/uploads/2015/06/docker_facebook_share.png" alt="face" width="40" height="40" style="max-width:100%;"></img>
 </a>
 
 <a href="https://www.instagram.com/russimar/" target="_blank" rel="external">
