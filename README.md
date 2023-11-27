@@ -1,6 +1,6 @@
 ## Olá, Meu nome é Russimar.
 
-Sou um Coboleiro por natureza, Radizeiro por convicção!
+Programador Delphi (Object Pascal)!
 
 - Moro no Gravataí - Rio Grande do Sul, Brasil.
 - Antes feito do que perfeito.
