@@ -25,7 +25,7 @@ Programador Delphi (Object Pascal)!
 </a>
 
 <a href="https://www.instagram.com/russimar/" target="_blank" rel="external">
-  <img align="center" src="https://traffik-up.com.br/wp-content/uploads/elementor/thumbs/Como-Colocar-o-Instagram-Preto-p4qrb8972o6r4pmitseuqqc7vh7oi6a2pzj8z19vzk.jpg" alt="insta" width="40" height="40" style="max-width:100%;"></img>
+  <img align="center" src="https://traffik-up.com.br/wp-content/uploads/elementor/thumbs/Como-Colocar-o-Instagram-Preto-p4qrb8972o6r4pmitseuqqc7vh7oi6a2pzj8z19vzk.jpg" alt="insta" width="50" height="40" style="max-width:100%;"></img>
 </a>
 
 <a href="mailto:russimar.s@gmail.com" target="_blank" rel="external">
